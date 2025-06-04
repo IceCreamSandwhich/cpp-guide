@@ -5,6 +5,8 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Hi there good fellow" << std::flush;
+    std::cout << "Hi there good fellow" << std::endl;
+    std::cout << std::endl;
+    std::cout << std::endl;
     return 0;
 }
